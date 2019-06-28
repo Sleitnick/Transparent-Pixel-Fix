@@ -58,6 +58,7 @@ typings/
 .env
 
 # project-specific files
+*.png
 pixelfix-macos-x64
 pixelfix-linux-x64
 pixelfix-win-x64.exe
