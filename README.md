@@ -1,3 +1,7 @@
+
+This is a forked repo. See the [original repo here](https://github.com/Corecii/Transparent-Pixel-Fix).
+
+
 # Pixelfix
 
 Changes the colors of completely transparent pixels in an image to match the color of the nearest non-transparent pixel.
@@ -8,8 +12,6 @@ Designed to be a quick drag-and-drop tool:
 2. Select them all and drag them on to the pixelfix executable. The pixelfix executable will overwrite the original images with fixed copies.
 3. Make sure there were no errors and close the console window
 4. Use or upload your images. Your images should now look fine when resized.
-
-[Download the latest release](https://github.com/Corecii/Transparent-Pixel-Fix/releases/latest)
 
 ## More info
 
